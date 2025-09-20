@@ -7,7 +7,7 @@ body {
   background-color: #f9fafc; /* Soft background */
   color: #222; /* High contrast text */
 }
-7
+
 /* ================== NAVBAR ================== */
 
 
@@ -44,7 +44,7 @@ body {
 }
 
 .nav-links {
-  font-size: 30px;
+  font-size: 15px;
   list-style: none;
   display: flex;
   justify-content: center;
