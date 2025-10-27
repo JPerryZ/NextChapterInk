@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urls xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://NextChapterInk.nenzee.com/index</loc>
+    <loc>https://NextChapterInk.nenzee.com</loc>
     <lastmod>2025-10-03</lastmod>
     <priority>1.0</priority>
   </url>
@@ -22,4 +22,4 @@
     <priority>1.0</priority>
   </url>
 
-</urls>
+</urlset>
