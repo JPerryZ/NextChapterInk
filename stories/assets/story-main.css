@@ -22,12 +22,11 @@ body {
   padding: 10px;
 }
 
-.logo.skip-link {
-  width: 50px;
-  height: 50px;
+.skip-link {
+  display: flex;
   background-size: contain;
   padding: 10px;
-  margin-left: 10px;
+  margin-left: 100px;
 }
 
 .search-bar  {
@@ -54,12 +53,12 @@ body {
   color: #fff;
   padding: 30px;
   border-radius: 0 0 15px 15px;  
-  gap: 30px;
+  gap: 100px;
 }
 
 .nav-links a {
   color: #fff;
-  font-size: 25px;
+  font-size: 35px;
   text-decoration: none;
 }
 
@@ -86,18 +85,42 @@ body {
   background-color: #1abc9c; /* Lighter teal */
 }
 
-
 /* ================== INTRO ================== */
 
-.intro {
+main {
+  background-color: rgb(2, 3, 3);
   text-align: center;
-  padding: 2rem;
+  font-size: 50px;
+  padding: 1px;
+  font-style: italic;
+  font-display:block;
+  color: rgb(29, 1, 96);
 }
 
-.hero-title {
-  position: center; inset: 0; 
-  background:linear-gradient(to bottom, rgba(0,0,0,.25), rgba(0,0,0,.45))
+.hero-title{
+  font-style: italic;
+  font-display:block;
+  color: #2980b9; /* Blue */
+  font-size: 100px;
+  margin-bottom: 1rem;
 }
+
+.hero-subheading {
+  font-style: italic;
+  font-display:block;
+  color: #27ae60; /* Green */
+  font-size: 85px;
+  margin-bottom: 1rem;
+}
+
+.stories-section {
+font-style: italic;
+font-display: block;
+color: #ecf0f1;
+font-size: 55px;
+}
+
+/* ================== CARDS ================== */
 
 .storyline-grid {
   display: grid;
@@ -121,7 +144,7 @@ body {
   color: inherit;
 }
 .card h2 {
-  color: #8e44ad; /* Plum */
+  color: #ecf0f1; 
 }
 .card p {
   color: #34495e; /* Dark gray-blue */
