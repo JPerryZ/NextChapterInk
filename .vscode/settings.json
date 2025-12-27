@@ -11,7 +11,7 @@
         "MAXSIZE",
         "urlset"
     ],
-    "liveServer.settings.port": 5501,
+    "liveServer.settings.port": 5502,
     "workbench.editor.autoLockGroups": {
         "default": true,
         "mssql.executionPlanView": true
